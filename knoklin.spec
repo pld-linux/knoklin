@@ -7,7 +7,6 @@ License:	GPL
 Group:		Applications/Communications
 Source0:	http://zope.achterklap.nl:8080/nokia/sub_250software/sub_knoklin/%{name}-%{version}.tar.gz
 # Source0-md5:	5319596bd01ba144e2a8ef10711c8ca9
-# Source0-size:	92854
 URL:		http://zope.achterklap.nl:8080/nokia/sub_250software/sub_knoklin/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
