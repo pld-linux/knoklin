@@ -8,7 +8,7 @@ Group:		Applications/Communications
 Source0:	http://zope.achterklap.nl:8080/nokia/sub_250software/sub_knoklin/%{name}-%{version}.tar.gz 
 # Source0-md5:	5319596bd01ba144e2a8ef10711c8ca9
 URL:		http://zope.achterklap.nl:8080/nokia/sub_250software/sub_knoklin/
-BuildRoot:      %{tmpdir}/%{name}-%{version}-root-%(id -u -n)
+BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Knok for Linux is a DCT3 flasher for Linux. It is a port of the source
