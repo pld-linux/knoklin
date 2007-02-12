@@ -1,5 +1,5 @@
 Summary:	DCT3 flasher for Linux
-Summary(pl):	Flasher DCT3 pod Linuksa
+Summary(pl.UTF-8):   Flasher DCT3 pod Linuksa
 Name:		knoklin
 Version:	1.0.0
 Release:	1
@@ -14,9 +14,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Knok for Linux is a DCT3 flasher for Linux. It is a port of the source
 of KNOK.
 
-%description -l pl
+%description -l pl.UTF-8
 Knok dla Linuksa jest flasherem DCT3 pod Linuksa. Jest on oparty na
-¼ródle KNOK-a.
+ÅºrÃ³dle KNOK-a.
 
 %prep
 %setup -q
