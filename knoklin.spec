@@ -1,5 +1,5 @@
 Summary:	DCT3 flasher for Linux
-Summary(pl.UTF-8):   Flasher DCT3 pod Linuksa
+Summary(pl.UTF-8):	Flasher DCT3 pod Linuksa
 Name:		knoklin
 Version:	1.0.0
 Release:	1
